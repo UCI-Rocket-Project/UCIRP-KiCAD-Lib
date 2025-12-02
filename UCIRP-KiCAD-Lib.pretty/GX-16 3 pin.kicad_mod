@@ -54,6 +54,17 @@
 		)
 	)
 	(attr smd)
+	(fp_circle
+		(center 0 4.4)
+		(end 7.5 4.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0ddd68b5-8b2d-4b07-a3a3-1ee259054180")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 12 0)
 		(unlocked yes)
