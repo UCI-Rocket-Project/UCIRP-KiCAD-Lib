@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Connector_VGA_Vertical"
+	(property "Value" "Connector_VGA_Vertical _Socket"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -591,4 +591,15 @@
 		(uuid "a4529372-bd4a-4ca1-a124-e3e4a86a7cce")
 	)
 	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-15-HD_Socket_Vertical_P2.29x1.98mm_MountingHoles.step"
+		(offset
+			(xyz 4.5 -8.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
