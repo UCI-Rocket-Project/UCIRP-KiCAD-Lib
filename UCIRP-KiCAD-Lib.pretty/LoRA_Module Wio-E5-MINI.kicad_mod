@@ -1,4 +1,4 @@
-(footprint "Untitled"
+(footprint "LoRA_Module Wio-E5-MINI"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Untitled"
+	(property "Value" "LoRA_Module Wio-E5-MINI"
 		(at 2.54 -15.24 0)
 		(unlocked yes)
 		(layer "F.Fab")

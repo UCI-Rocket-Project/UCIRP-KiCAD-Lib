@@ -1,4 +1,4 @@
-(footprint "SAMTEC_HTSW-109-08-T-T-RA"
+(footprint "Connector_3x9pin_2.54mm_Horizontal HTSW-109-08-T-T-RA"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "SAMTEC_HTSW-109-08-T-T-RA"
+	(property "Value" "Connector_3x9pin_2.54mm_Horizontal HTSW-109-08-T-T-RA"
 		(at 3.445 8.975 0)
 		(layer "F.Fab")
 		(uuid "c3d96390-b12e-4be4-8ff7-ad726d477a9a")

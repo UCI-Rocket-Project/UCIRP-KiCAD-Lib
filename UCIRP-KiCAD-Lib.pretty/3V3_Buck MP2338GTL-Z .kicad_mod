@@ -1,9 +1,8 @@
-(footprint "SOT583_MP2338_MNP"
+(footprint "3V3_Buck MP2338GTL-Z "
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(tags "MP2338GTL-Z ")
 	(property "Reference" "REF**"
 		(at 0 -2.5 0)
 		(unlocked yes)

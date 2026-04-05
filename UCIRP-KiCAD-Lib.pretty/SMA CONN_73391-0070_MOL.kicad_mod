@@ -1,4 +1,4 @@
-(footprint "CONN_73391-0070_MOL"
+(footprint "SMA CONN_73391-0070_MOL"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CONN_73391-0070_MOL"
+	(property "Value" "SMA CONN_73391-0070_MOL"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

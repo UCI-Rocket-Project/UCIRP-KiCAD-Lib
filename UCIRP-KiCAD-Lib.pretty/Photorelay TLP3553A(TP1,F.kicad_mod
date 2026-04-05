@@ -1,4 +1,4 @@
-(footprint "optocoupler"
+(footprint "Photorelay TLP3553A(TP1,F"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "optocoupler"
+	(property "Value" ""
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")

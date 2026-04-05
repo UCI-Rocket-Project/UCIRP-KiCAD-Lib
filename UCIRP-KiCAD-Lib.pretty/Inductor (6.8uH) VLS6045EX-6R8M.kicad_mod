@@ -1,4 +1,4 @@
-(footprint "IND_VLS6045EX-6R8M"
+(footprint "Inductor (6.8uH) VLS6045EX-6R8M"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "IND_VLS6045EX-6R8M"
+	(property "Value" "VLS6045EX-6R8M"
 		(at 3.9152 3.6564 0)
 		(layer "F.Fab")
 		(uuid "a91afe56-c392-41ef-8234-920d5d83ce2a")
